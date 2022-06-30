@@ -1,3 +1,3 @@
-print(Hello World)
+print('Hello World')
 Print('Gold's contribution')
 
